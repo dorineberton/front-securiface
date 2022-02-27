@@ -1,0 +1,15 @@
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+
+*, before, after {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1, h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+}
+a {
+  text-decoration: none;
+}
+.active {
+  color: rgb(10, 88, 202);
+}
